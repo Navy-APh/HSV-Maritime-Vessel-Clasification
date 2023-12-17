@@ -1,6 +1,6 @@
 # HSV-Maritime-Vessel-Clasification
 
-This repository contains a dataset utilized in a research project detailed in the conference paper titled "Ship Type Classification: a Handwriting Signature Verification Approach for Maritime Trajectories."
+This repository contains a dataset utilized in a research project detailed in the conference paper titled "Ship Type Classification: a Handwriting Signature Verification Approach for Maritime Trajectories".
 
 The associated paper presents an in-depth analysis and proposals of AI-based methodologies for the classification of vessel types based on their trajectory analysis. The research involved training multiple AI models using processed and labeled data derived from raw AIS data.
 
